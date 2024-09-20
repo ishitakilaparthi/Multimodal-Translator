@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimodal Translator</title>
+    <link rel="stylesheet" href="../static/css/style.index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap"
+        rel="stylesheet">
+</head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<body>
+
+    <section class="header">
+        <nav>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="/">HOME</a></li>
+                    <li><a href="#features">FEATURES</a></li>
+                    <li><a href="#contact-us">CONTACT US</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+
+        <div class="text-box">
+            <h1>Welcome to Multimodal Translator!</h1>
+
+            <a href="#features" class="hero-btn">Translate Now</a>
+            <p>
+                The Multimodal Translator seamlessly translates text, audio, image, and video content. It also includes YouTube transcript summarization, fostering global communication and inclusivity with its diverse language support and accessibility features.
+            </p>
+        </div>
+
+    </section>
+
+    <section id="features">
+        <h1>Features we offer</h1>
+
+        <div class="row">
+            <div class="features-col">
+                <a href="../static/utilities/text_translate.html">Text Translation</a>
+                <p>Text-to-Text translation enables effortless conversion of written text between languages.</p>
+            </div>
+
+            <div class="features-col">
+                <a href="../static/utilities/audio_translate.html">Audio Translation</a>
+                <p>Audio translation encompasses both audio-to-text and audio-to-audio functionalities, enabling seamless conversion between spoken words and written text, as well as between different languages in audio format.</p>
+            </div>
+
+            <div class="features-col">
+                <a href="../static/utilities/video_translate.html">Video Translation</a>
+                <p>Video translation effortlessly converts spoken content in videos into different languages, enhancing accessibility and inclusivity for global audiences.</p>
+            </div>
+
+            
+
+
+
+        </div>
+
+
+
+    </section>
+
+    <!-----------JavaScript for Toggle menu - Stackoverflow---------->
+    <script>
+
+        var navLinks = document.getElementById("navLinks");
+
+        function showMenu() {
+            navLinks.style.right = "0";
+        }
+        function hideMenu() {
+            navLinks.style.right = "-200px";
+        }
+    </script>
+
+    <section class="footer" id="contact-us">
+        <h2>About Us</h2>
+        <p><h3>Meet our team</h3></p><br> <a href="https://www.linkedin.com/in/ishita-kilaparthi-a34710242/">Ishita Kilaparthi</a><br> <a href="https://www.linkedin.com/in/spandana-koutike-874073261/">Spandana Koutike</a><br><a href="https://www.linkedin.com/in/indu-sai-mucharla-84567424a/">Mucharla Indu Sai</a><br> <a href="https://www.linkedin.com/in/sathwika-madishetty-06464a26a/">Sathwika Madishetty</a><br>Pre final year students at G. Narayanamma Institute of Technology and Science, Hyderabad</p>
+
+        <div class="icons">
+            <a href="https://github.com/ishitakilaparthi"><i class="fa fa-github"></i></a>
+            
+            
+        </div>
+
+
+    </section>
+
+</body>
+
+</html>

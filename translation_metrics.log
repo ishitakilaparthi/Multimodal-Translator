@@ -1,0 +1,164 @@
+2024-07-05 21:15:27,146:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-07-05 21:15:27,146:INFO:[33mPress CTRL+C to quit[0m
+2024-07-05 21:15:27,149:INFO: * Restarting with stat
+2024-07-05 21:15:33,862:WARNING: * Debugger is active!
+2024-07-05 21:15:33,865:INFO: * Debugger PIN: 871-637-331
+2024-07-05 21:19:35,552:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-07-05 21:19:35,552:INFO:[33mPress CTRL+C to quit[0m
+2024-07-05 21:19:35,554:INFO: * Restarting with stat
+2024-07-05 21:19:37,975:WARNING: * Debugger is active!
+2024-07-05 21:19:37,975:INFO: * Debugger PIN: 871-637-331
+2024-07-05 21:22:27,510:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-07-05 21:22:27,510:INFO:[33mPress CTRL+C to quit[0m
+2024-07-05 21:22:27,512:INFO: * Restarting with stat
+2024-07-05 21:22:34,750:WARNING: * Debugger is active!
+2024-07-05 21:22:34,756:INFO: * Debugger PIN: 871-637-331
+2024-07-05 21:27:02,888:INFO:127.0.0.1 - - [05/Jul/2024 21:27:02] "GET / HTTP/1.1" 200 -
+2024-07-05 21:27:03,020:INFO:127.0.0.1 - - [05/Jul/2024 21:27:03] "[36mGET /static/css/style.index.css HTTP/1.1[0m" 304 -
+2024-07-05 21:27:03,044:INFO:127.0.0.1 - - [05/Jul/2024 21:27:03] "[36mGET /static/images/bgimage.png HTTP/1.1[0m" 304 -
+2024-07-05 21:27:08,274:INFO:127.0.0.1 - - [05/Jul/2024 21:27:08] "[36mGET /static/utilities/text_translate.html HTTP/1.1[0m" 304 -
+2024-07-05 21:27:08,293:INFO:127.0.0.1 - - [05/Jul/2024 21:27:08] "[36mGET /static/css/style.forms.css HTTP/1.1[0m" 304 -
+2024-07-05 21:27:08,314:INFO:127.0.0.1 - - [05/Jul/2024 21:27:08] "[36mGET /static/js/languageListAdder.js HTTP/1.1[0m" 304 -
+2024-07-05 21:27:08,315:INFO:127.0.0.1 - - [05/Jul/2024 21:27:08] "[36mGET /static/js/connector.js HTTP/1.1[0m" 304 -
+2024-07-05 21:27:08,317:INFO:127.0.0.1 - - [05/Jul/2024 21:27:08] "[36mGET /static/js/editor.js HTTP/1.1[0m" 304 -
+2024-07-05 21:27:37,543:INFO:Using default tokenizer.
+2024-07-05 21:27:37,555:INFO:BLEU score: 0
+2024-07-05 21:27:37,555:INFO:ROUGE score: {'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}
+2024-07-05 21:27:37,555:INFO:Accuracy: 0.0
+2024-07-05 21:27:37,555:INFO:127.0.0.1 - - [05/Jul/2024 21:27:37] "POST /text_translate HTTP/1.1" 200 -
+2024-07-05 21:43:38,265:INFO: * Detected change in 'D:\\Multimodal-Translator-Project\\Multimodal-Translator-Project\\app.py', reloading
+2024-07-05 21:43:38,549:INFO: * Restarting with stat
+2024-07-05 21:46:18,190:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-07-05 21:46:18,190:INFO:[33mPress CTRL+C to quit[0m
+2024-07-05 21:46:18,190:INFO: * Restarting with stat
+2024-07-05 21:47:01,591:WARNING: * Debugger is active!
+2024-07-05 21:47:01,597:INFO: * Debugger PIN: 871-637-331
+2024-07-05 21:47:01,807:INFO:127.0.0.1 - - [05/Jul/2024 21:47:01] "GET / HTTP/1.1" 200 -
+2024-07-05 21:47:01,973:INFO:127.0.0.1 - - [05/Jul/2024 21:47:01] "[36mGET /static/utilities/text_translate.html HTTP/1.1[0m" 304 -
+2024-07-05 21:47:01,977:INFO:127.0.0.1 - - [05/Jul/2024 21:47:01] "GET /static/utilities/text_translate.html HTTP/1.1" 200 -
+2024-07-05 21:47:15,972:INFO:127.0.0.1 - - [05/Jul/2024 21:47:15] "GET / HTTP/1.1" 200 -
+2024-07-05 21:47:16,295:INFO:127.0.0.1 - - [05/Jul/2024 21:47:16] "[36mGET /static/css/style.index.css HTTP/1.1[0m" 304 -
+2024-07-05 21:47:16,522:INFO:127.0.0.1 - - [05/Jul/2024 21:47:16] "[36mGET /static/images/bgimage.png HTTP/1.1[0m" 304 -
+2024-07-05 21:47:19,375:INFO:127.0.0.1 - - [05/Jul/2024 21:47:19] "GET /static/utilities/text_translate.html HTTP/1.1" 200 -
+2024-07-05 21:47:19,772:INFO:127.0.0.1 - - [05/Jul/2024 21:47:19] "[36mGET /static/js/connector.js HTTP/1.1[0m" 304 -
+2024-07-05 21:47:19,870:INFO:127.0.0.1 - - [05/Jul/2024 21:47:19] "[36mGET /static/css/style.forms.css HTTP/1.1[0m" 304 -
+2024-07-05 21:47:19,985:INFO:127.0.0.1 - - [05/Jul/2024 21:47:19] "[36mGET /static/js/editor.js HTTP/1.1[0m" 304 -
+2024-07-05 21:47:20,615:INFO:127.0.0.1 - - [05/Jul/2024 21:47:20] "[36mGET /static/js/languageListAdder.js HTTP/1.1[0m" 304 -
+2024-07-05 21:47:35,344:INFO:Using default tokenizer.
+2024-07-05 21:47:35,344:INFO:BLEU score: 0
+2024-07-05 21:47:35,344:INFO:ROUGE score: {'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}
+2024-07-05 21:47:35,344:INFO:Accuracy: 0.0
+2024-07-05 21:47:35,350:INFO:127.0.0.1 - - [05/Jul/2024 21:47:35] "POST /text_translate HTTP/1.1" 200 -
+2024-07-05 21:50:39,605:INFO: * Detected change in 'D:\\Multimodal-Translator-Project\\Multimodal-Translator-Project\\app.py', reloading
+2024-07-05 21:50:39,900:INFO: * Restarting with stat
+2024-07-05 21:51:10,254:WARNING: * Debugger is active!
+2024-07-05 21:51:10,284:INFO: * Debugger PIN: 871-637-331
+2024-07-05 21:51:11,464:INFO:Using default tokenizer.
+2024-07-05 21:51:11,466:INFO:BLEU score: 0
+2024-07-05 21:51:11,466:INFO:ROUGE score: {'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}
+2024-07-05 21:51:11,466:INFO:Accuracy: 0.0
+2024-07-05 21:51:11,467:INFO:127.0.0.1 - - [05/Jul/2024 21:51:11] "POST /text_translate HTTP/1.1" 200 -
+2024-07-05 21:51:18,708:INFO:127.0.0.1 - - [05/Jul/2024 21:51:18] "GET / HTTP/1.1" 200 -
+2024-07-05 21:51:19,533:INFO:127.0.0.1 - - [05/Jul/2024 21:51:19] "[36mGET /static/css/style.index.css HTTP/1.1[0m" 304 -
+2024-07-05 21:51:19,688:INFO:127.0.0.1 - - [05/Jul/2024 21:51:19] "[36mGET /static/images/bgimage.png HTTP/1.1[0m" 304 -
+2024-07-05 21:51:29,284:INFO:127.0.0.1 - - [05/Jul/2024 21:51:29] "[36mGET /static/utilities/text_translate.html HTTP/1.1[0m" 304 -
+2024-07-05 21:51:29,300:INFO:127.0.0.1 - - [05/Jul/2024 21:51:29] "[36mGET /static/css/style.forms.css HTTP/1.1[0m" 304 -
+2024-07-05 21:51:29,307:INFO:127.0.0.1 - - [05/Jul/2024 21:51:29] "[36mGET /static/js/connector.js HTTP/1.1[0m" 304 -
+2024-07-05 21:51:29,311:INFO:127.0.0.1 - - [05/Jul/2024 21:51:29] "[36mGET /static/js/editor.js HTTP/1.1[0m" 304 -
+2024-07-05 21:51:29,314:INFO:127.0.0.1 - - [05/Jul/2024 21:51:29] "[36mGET /static/js/languageListAdder.js HTTP/1.1[0m" 304 -
+2024-07-05 21:51:51,520:INFO:Using default tokenizer.
+2024-07-05 21:51:51,520:INFO:BLEU score: 0
+2024-07-05 21:51:51,520:INFO:ROUGE score: {'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}
+2024-07-05 21:51:51,520:INFO:Accuracy: 0.0
+2024-07-05 21:51:51,525:INFO:127.0.0.1 - - [05/Jul/2024 21:51:51] "POST /text_translate HTTP/1.1" 200 -
+2024-07-05 21:53:34,474:INFO: * Detected change in 'D:\\Multimodal-Translator-Project\\Multimodal-Translator-Project\\app.py', reloading
+2024-07-05 21:53:34,740:INFO: * Restarting with stat
+2024-07-05 21:54:00,219:WARNING: * Debugger is active!
+2024-07-05 21:54:00,223:INFO: * Debugger PIN: 871-637-331
+2024-07-05 21:54:39,613:INFO:127.0.0.1 - - [05/Jul/2024 21:54:39] "GET / HTTP/1.1" 200 -
+2024-07-05 21:54:40,238:INFO:127.0.0.1 - - [05/Jul/2024 21:54:40] "[36mGET /static/css/style.index.css HTTP/1.1[0m" 304 -
+2024-07-05 21:54:40,537:INFO:127.0.0.1 - - [05/Jul/2024 21:54:40] "[36mGET /static/images/bgimage.png HTTP/1.1[0m" 304 -
+2024-07-05 21:55:08,755:INFO:127.0.0.1 - - [05/Jul/2024 21:55:08] "[36mGET /static/utilities/text_translate.html HTTP/1.1[0m" 304 -
+2024-07-05 21:55:09,013:INFO:127.0.0.1 - - [05/Jul/2024 21:55:09] "[36mGET /static/css/style.forms.css HTTP/1.1[0m" 304 -
+2024-07-05 21:55:09,289:INFO:127.0.0.1 - - [05/Jul/2024 21:55:09] "[36mGET /static/js/connector.js HTTP/1.1[0m" 304 -
+2024-07-05 21:55:09,659:INFO:127.0.0.1 - - [05/Jul/2024 21:55:09] "[36mGET /static/js/languageListAdder.js HTTP/1.1[0m" 304 -
+2024-07-05 21:55:10,089:INFO:127.0.0.1 - - [05/Jul/2024 21:55:10] "[36mGET /static/js/editor.js HTTP/1.1[0m" 304 -
+2024-07-05 21:56:11,553:INFO:Using default tokenizer.
+2024-07-05 21:56:11,556:INFO:BLEU score: 0
+2024-07-05 21:56:11,556:INFO:ROUGE score: {'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}
+2024-07-05 21:56:11,557:INFO:Accuracy: 0.0
+2024-07-05 21:56:11,557:INFO:127.0.0.1 - - [05/Jul/2024 21:56:11] "POST /text_translate HTTP/1.1" 200 -
+2024-07-05 21:56:26,635:INFO:127.0.0.1 - - [05/Jul/2024 21:56:26] "[36mGET /static/utilities/text_translate.html HTTP/1.1[0m" 304 -
+2024-07-05 21:56:27,015:INFO:127.0.0.1 - - [05/Jul/2024 21:56:27] "[36mGET /static/css/style.forms.css HTTP/1.1[0m" 304 -
+2024-07-05 21:56:27,764:INFO:127.0.0.1 - - [05/Jul/2024 21:56:27] "[36mGET /static/js/connector.js HTTP/1.1[0m" 304 -
+2024-07-05 21:56:27,961:INFO:127.0.0.1 - - [05/Jul/2024 21:56:27] "[36mGET /static/js/languageListAdder.js HTTP/1.1[0m" 304 -
+2024-07-05 21:56:28,401:INFO:127.0.0.1 - - [05/Jul/2024 21:56:28] "[36mGET /static/js/editor.js HTTP/1.1[0m" 304 -
+2024-07-05 21:56:59,329:INFO:Using default tokenizer.
+2024-07-05 21:56:59,339:INFO:BLEU score: 0
+2024-07-05 21:56:59,339:INFO:ROUGE score: {'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}
+2024-07-05 21:56:59,339:INFO:Accuracy: 0.0
+2024-07-05 21:56:59,341:INFO:127.0.0.1 - - [05/Jul/2024 21:56:59] "POST /text_translate HTTP/1.1" 200 -
+2024-07-05 21:59:51,627:INFO: * Detected change in 'D:\\Multimodal-Translator-Project\\Multimodal-Translator-Project\\app.py', reloading
+2024-07-05 21:59:51,869:INFO: * Restarting with stat
+2024-07-05 21:59:53,899:WARNING: * Debugger is active!
+2024-07-05 21:59:53,899:INFO: * Debugger PIN: 871-637-331
+2024-07-05 21:59:56,756:INFO:127.0.0.1 - - [05/Jul/2024 21:59:56] "[36mGET /static/utilities/text_translate.html HTTP/1.1[0m" 304 -
+2024-07-05 21:59:56,766:INFO:127.0.0.1 - - [05/Jul/2024 21:59:56] "[36mGET /static/css/style.forms.css HTTP/1.1[0m" 304 -
+2024-07-05 21:59:56,769:INFO:127.0.0.1 - - [05/Jul/2024 21:59:56] "[36mGET /static/js/connector.js HTTP/1.1[0m" 304 -
+2024-07-05 21:59:56,772:INFO:127.0.0.1 - - [05/Jul/2024 21:59:56] "[36mGET /static/js/languageListAdder.js HTTP/1.1[0m" 304 -
+2024-07-05 21:59:56,772:INFO:127.0.0.1 - - [05/Jul/2024 21:59:56] "[36mGET /static/js/editor.js HTTP/1.1[0m" 304 -
+2024-07-05 22:00:05,363:INFO:Using default tokenizer.
+2024-07-05 22:00:05,365:INFO:BLEU score: 0
+2024-07-05 22:00:05,365:INFO:ROUGE score: {'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}
+2024-07-05 22:00:05,365:INFO:Accuracy: 0.0
+2024-07-05 22:00:05,365:INFO:127.0.0.1 - - [05/Jul/2024 22:00:05] "POST /text_translate HTTP/1.1" 200 -
+2024-07-05 22:01:28,923:INFO: * Detected change in 'D:\\Multimodal-Translator-Project\\Multimodal-Translator-Project\\app.py', reloading
+2024-07-05 22:01:29,179:INFO: * Restarting with stat
+2024-07-05 22:01:31,620:WARNING: * Debugger is active!
+2024-07-05 22:01:31,622:INFO: * Debugger PIN: 871-637-331
+2024-07-05 22:01:42,209:INFO: * Detected change in 'D:\\Multimodal-Translator-Project\\Multimodal-Translator-Project\\app.py', reloading
+2024-07-05 22:01:42,479:INFO: * Restarting with stat
+2024-07-05 22:01:44,749:WARNING: * Debugger is active!
+2024-07-05 22:01:44,749:INFO: * Debugger PIN: 871-637-331
+2024-07-05 22:01:44,839:INFO: * Detected change in 'D:\\Multimodal-Translator-Project\\Multimodal-Translator-Project\\app.py', reloading
+2024-07-05 22:01:45,083:INFO: * Restarting with stat
+2024-07-05 22:01:47,436:WARNING: * Debugger is active!
+2024-07-05 22:01:47,438:INFO: * Debugger PIN: 871-637-331
+2024-07-05 22:01:53,387:INFO:127.0.0.1 - - [05/Jul/2024 22:01:53] "[36mGET /static/utilities/text_translate.html HTTP/1.1[0m" 304 -
+2024-07-05 22:01:53,397:INFO:127.0.0.1 - - [05/Jul/2024 22:01:53] "[36mGET /static/css/style.forms.css HTTP/1.1[0m" 304 -
+2024-07-05 22:01:53,399:INFO:127.0.0.1 - - [05/Jul/2024 22:01:53] "[36mGET /static/js/connector.js HTTP/1.1[0m" 304 -
+2024-07-05 22:01:53,404:INFO:127.0.0.1 - - [05/Jul/2024 22:01:53] "[36mGET /static/js/languageListAdder.js HTTP/1.1[0m" 304 -
+2024-07-05 22:01:53,404:INFO:127.0.0.1 - - [05/Jul/2024 22:01:53] "[36mGET /static/js/editor.js HTTP/1.1[0m" 304 -
+2024-07-05 22:02:01,029:INFO:Using default tokenizer.
+2024-07-05 22:02:01,033:INFO:BLEU score: 0
+2024-07-05 22:02:01,033:INFO:ROUGE score: {'rouge1': Score(precision=1.0, recall=1.0, fmeasure=1.0), 'rougeL': Score(precision=1.0, recall=1.0, fmeasure=1.0)}
+2024-07-05 22:02:01,033:INFO:Accuracy: 1.0
+2024-07-05 22:02:01,033:INFO:127.0.0.1 - - [05/Jul/2024 22:02:01] "POST /text_translate HTTP/1.1" 200 -
+2024-07-05 22:04:12,834:INFO: * Detected change in 'D:\\Multimodal-Translator-Project\\Multimodal-Translator-Project\\app.py', reloading
+2024-07-05 22:04:13,182:INFO: * Restarting with stat
+2024-07-05 22:04:46,274:WARNING: * Debugger is active!
+2024-07-05 22:04:46,277:INFO: * Debugger PIN: 871-637-331
+2024-07-05 22:04:47,546:INFO:127.0.0.1 - - [05/Jul/2024 22:04:47] "[36mGET /static/utilities/text_translate.html HTTP/1.1[0m" 304 -
+2024-07-05 22:05:08,008:INFO:127.0.0.1 - - [05/Jul/2024 22:05:08] "GET / HTTP/1.1" 200 -
+2024-07-05 22:05:09,308:INFO:127.0.0.1 - - [05/Jul/2024 22:05:09] "[36mGET /static/css/style.index.css HTTP/1.1[0m" 304 -
+2024-07-05 22:05:09,549:INFO:127.0.0.1 - - [05/Jul/2024 22:05:09] "[36mGET /static/images/bgimage.png HTTP/1.1[0m" 304 -
+2024-07-05 22:05:33,391:INFO:127.0.0.1 - - [05/Jul/2024 22:05:33] "GET /static/utilities/text_translate.html HTTP/1.1" 200 -
+2024-07-05 22:05:33,435:INFO:127.0.0.1 - - [05/Jul/2024 22:05:33] "[36mGET /static/css/style.forms.css HTTP/1.1[0m" 304 -
+2024-07-05 22:05:33,479:INFO:127.0.0.1 - - [05/Jul/2024 22:05:33] "[36mGET /static/js/connector.js HTTP/1.1[0m" 304 -
+2024-07-05 22:05:33,491:INFO:127.0.0.1 - - [05/Jul/2024 22:05:33] "[36mGET /static/js/languageListAdder.js HTTP/1.1[0m" 304 -
+2024-07-05 22:05:33,498:INFO:127.0.0.1 - - [05/Jul/2024 22:05:33] "[36mGET /static/js/editor.js HTTP/1.1[0m" 304 -
+2024-07-05 22:05:43,211:INFO:Using default tokenizer.
+2024-07-05 22:05:43,213:INFO:BLEU score: 0
+2024-07-05 22:05:43,213:INFO:ROUGE score: {'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}
+2024-07-05 22:05:43,213:INFO:Accuracy: 0.0
+2024-07-05 22:05:43,213:INFO:127.0.0.1 - - [05/Jul/2024 22:05:43] "POST /text_translate HTTP/1.1" 200 -
+2024-09-20 18:06:39,057:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2024-09-20 18:06:39,058:INFO:[33mPress CTRL+C to quit[0m
+2024-09-20 18:06:39,064:INFO: * Restarting with stat
+2024-09-20 18:06:40,695:WARNING: * Debugger is active!
+2024-09-20 18:06:40,697:INFO: * Debugger PIN: 871-637-331
